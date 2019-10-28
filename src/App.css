@@ -1,0 +1,12 @@
+.Search-Container{
+  display: inline-block;
+  position: relative;
+  overflow: hidden;
+}
+
+.Clear-Text{
+  position: absolute;
+  top: 0;
+  right: -15px;
+  transition: right 0.2s;
+}
